@@ -22,7 +22,7 @@ const Hero = () => {
 
   const handleMiniVideoClick = () => {
     setHasClicked(true);
-    setCurrentIndex((prev) => (prev+1)%totalVideo)
+    setCurrentIndex((prev) => (prev%totalVideo)+1)
    }
 
    useEffect(()=>{
@@ -107,7 +107,7 @@ const Hero = () => {
               muted
               id='current-video'
               className='size-64 origin-center object-cover scale-150 object-center'
-              src={getVideoSrc(currentIndex+1)}
+              src={getVideoSrc((currentIndex%totalVideo)+1)}
 
               //onLoadedData is a special function which will be called when the data is loaded
               onLoadedData = {handleVideoLoad}
@@ -130,7 +130,9 @@ const Hero = () => {
           autoPlay
           id='next-video'
           className='absolute left-0 top-0 size-full object-cover object-center'
-          src={getVideoSrc(currentIndex)}
+          src={getVideoSrc(
+            currentIndex === totalVideo-1 ? 1 : currentIndex
+          )}
           />
         </div>
       <h1 className='special-font hero-heading z-40 absolute bottom-5 right-5 text-blue-75'>
