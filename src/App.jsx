@@ -5,7 +5,7 @@ import Navbar from './components/Navbar'
 
 const App = () => {
   return (
-    <div  className='relative min-h-screen w-screen overflow-x-hidden bg-gray-700'>
+    <div  className='relative min-h-screen w-screen overflow-x-hidden bg-blue-75'>
       <Navbar/>
       <Hero/>
       <About/>
