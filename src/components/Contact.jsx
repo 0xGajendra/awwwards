@@ -23,15 +23,11 @@ const Contact = () => {
             src="img/contact-2.webp"
             clipClass="contact-clip-path-2 lg:tranlate-y-40 translate-y-60"
           />
-          <ImageClipBox
-            src="img/contact-1.webp"
-            clipClass="contact-clip-path-1"
-          />
         </div>
-        <div className="absolute -top=40 left-20 w-60 sm:top-1/2 md:left-auto lg:right-20 lg:w-80">
+        <div className="absolute -top-40 left-20 w-60 sm:top-1/2 md:left-auto lg:right-20 lg:w-80">
           <ImageClipBox
             src="img/swordman-partial.webp"
-            clipClass="absolute md:scale-125 md:scale-125"
+            clipClass="absolute md:scale-125"
           />
           <ImageClipBox
             src="img/swordman.webp"
