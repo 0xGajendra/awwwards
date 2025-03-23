@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/db8be64e-daf8-4585-8410-11d5ce737f57" alt="logo" width="150" height="auto" />
+  <img src="https://assets.awwwards.com/assets/images/favicon.svg" alt="logo" width="150" height="auto" />
   
   # 🌐 Awwwards-Winning Website Clone
 
