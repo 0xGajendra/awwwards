@@ -10,8 +10,7 @@
 
   ![Contributors](https://img.shields.io/github/contributors/0xGajendra/awwwards)
   ![Last Commit](https://img.shields.io/github/last-commit/0xGajendra/awwwards)
-  ![Stars](https://img.shields.io/github/stars/yourusername/0xGajendra/awwwards)
-  ![Forks](https://img.shields.io/github/forks/0xGajendra/awwwards)
+  
 
 </div>
 
