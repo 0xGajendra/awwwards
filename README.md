@@ -24,8 +24,10 @@ This project replicates an Awwwards-winning website with:
 - Modern UI/UX inspired by top-tier web designs 🎨
 
 ## 📸 Gallery
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/90a3dd0d-5971-44ee-8129-0c3c94005d6d" alt="screenshot" width="100%" />
+<div align="center" style="display: flex; gap: 10px; justify-content: center;">
+  <img src="src/assets/screenshot-1.png" alt="screenshot1" width="30%" />
+  <img src="src/assets/screenshot-2.png" alt="screenshot2" width="30%" />
+  <img src="src/assets/screenshot-3.png" alt="screenshot3" width="30%" />
 </div>
 
 ## ⚙️ Tech Stack
