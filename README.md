@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://assets.awwwards.com/assets/images/favicon.svg" alt="logo" width="150" height="auto" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Awwards-logotype-2018.svg/1280px-Awwards-logotype-2018.svg.png" alt="logo" height="auto" />
   
   # 🌐 Awwwards-Winning Website Clone
 
@@ -24,10 +24,10 @@ This project replicates an Awwwards-winning website with:
 - Modern UI/UX inspired by top-tier web designs 🎨
 
 ## 📸 Gallery
-<div align="center" style="display: flex; gap: 10px; justify-content: center;">
-  <img src="src/assets/screenshot-1.png" alt="screenshot1" width="30%" />
-  <img src="src/assets/screenshot-2.png" alt="screenshot2" width="30%" />
-  <img src="src/assets/screenshot-3.png" alt="screenshot3" width="30%" />
+<div align="center" >
+  <img src="src/assets/screenshot-1.png" alt="screenshot1"  />
+  <img src="src/assets/screenshot-2.png" alt="screenshot2"  />
+  <img src="src/assets/screenshot-3.png" alt="screenshot3"  />
 </div>
 
 ## ⚙️ Tech Stack
