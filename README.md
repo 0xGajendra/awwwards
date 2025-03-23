@@ -59,7 +59,7 @@ Contributions are what make the open-source community amazing. Feel free to fork
 </a>
 
 ## 📬 Contact
-**Your Name** — [Linked In](https://www.linkedin.com/in/gajendra-li/) — gajendrapawar69@gmail.com
+**Gajendra Rao** — [Linked In](https://www.linkedin.com/in/gajendra-li/) — gajendrapawar69@gmail.com
 
 Project Link: [Awwwards-Winning Website Clone](https://github.com/0xGajendra/awwwards)
 
