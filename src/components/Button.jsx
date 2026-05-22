@@ -1,4 +1,3 @@
-import React from "react";
 import RevealLink from "./RevealLink";
 
 const Button = ({ title, id, rightIcon, leftIcon, containerClass }) => {

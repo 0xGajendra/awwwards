@@ -1,4 +1,4 @@
-import React, { useRef, useState, useEffect } from 'react'
+import { useRef, useState, useEffect } from 'react'
 import Button from './Button'
 import { TiLocationArrow } from 'react-icons/ti';
 import { useGSAP } from '@gsap/react';

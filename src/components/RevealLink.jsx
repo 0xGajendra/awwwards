@@ -1,4 +1,3 @@
-import React from 'react'
 import { motion } from "motion/react"
 
 const duration = 0.25;
@@ -30,7 +29,7 @@ const RevealLink = ({children}) => {
           key={i}>{l}</motion.span>
         })}
       </div>
-      <div
+      <motion.div
       className='absolute inset-0'
         variants={{
           initial: {y:"100%"},
@@ -55,7 +54,7 @@ const RevealLink = ({children}) => {
         }}
         key={i}>{l}</motion.span>
       })}
-      </div>
+      </motion.div>
     </motion.div>
   )
 }

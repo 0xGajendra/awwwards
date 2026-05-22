@@ -1,5 +1,3 @@
-import React from "react";
-import AnimatedTitle from "./AnimatedTitle";
 import Button from "./Button";
 
 const ImageClipBox = ({ src, clipClass }) => {
@@ -38,7 +36,7 @@ const Contact = () => {
           <p className="font-general text-[10px] uppercase">Join Zentry</p>
 
           <p className="special-font mt-10 h-full font-zentry text-5xl leading-[0.9] md:text-[6rem]">
-            Let's b<b>u</b>ild the <br /> new era of <br /> g<b>a</b>ming t
+            Let&apos;s b<b>u</b>ild the <br /> new era of <br /> g<b>a</b>ming t
             <b>o</b>gether
           </p>
           <Button title="contact us" containerClass='cursor-pointer mt-10'>
